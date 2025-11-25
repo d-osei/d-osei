@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Daniel. 👋
+### 🛡️ Cybersecurity Analyst | Threat Hunter | Data Science Enthusiast
 
-<!--
-**d-osei/d-osei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between **Security Operations** and **Data Science**, using Python to automate what others do manually.
 
-Here are some ideas to get you started:
+## 🚀 The Ecosystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repository | Purpose | Status |
+| :--- | :--- | :--- |
+| **[Cybersecurity-Portfolio](./LINK_TO_MAIN_REPO)** | My "Master" project tracking my progression from Analyst to Engineer. | 🟢 Active |
+| **[Cybersecurity-Daily-Drills](./LINK_TO_DRILLS_REPO)** | Daily 30-minute coding challenges (Log parsing, API scraping). | 🔄 Daily |
+
+## 🗺️ Project Roadmap
+
+| Phase | Key Project | Tech Stack |
+| :--- | :--- | :--- |
+| **Phase 1: Analysis** | **[SSH Botnet Tracker](LINK)** | `Pandas`, `NetworkX` |
+| **Phase 2: Intel** | **[BOTSv1 APT Hunt](LINK)** | `Splunk`, `Jupyter` |
+| **Phase 3: AI/ML** | **[Traffic Anomaly Detection](LINK)** | `Scikit-learn` |
+
+## 🧩 Tech Stack
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Theory-darkblue?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=flat&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Bash-yellow?style=flat&logo=linux&logoColor=black)
