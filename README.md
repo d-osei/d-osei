@@ -7,8 +7,8 @@ I bridge the gap between **Security Operations** and **Data Science**, using Pyt
 
 | Repository | Purpose | Status |
 | :--- | :--- | :--- |
-| **[Cybersecurity-Portfolio](./LINK_TO_MAIN_REPO)** | My "Master" project tracking my progression from Analyst to Engineer. | 🟢 Active |
-| **[Cybersecurity-Daily-Drills](./LINK_TO_DRILLS_REPO)** | Daily 30-minute coding challenges (Log parsing, API scraping). | 🔄 Daily |
+| **[Cybersecurity-Portfolio](https://github.com/d-osei/Cybersecurity-Portfolio)** | My "Master" project tracking my progression from Analyst to Engineer. | 🟢 Active |
+| **[Cybersecurity-Daily-Drills](https://github.com/d-osei/Cybersecurity-Daily-Drills)** | Daily 30-minute coding challenges (Log parsing, API scraping). | 🔄 Daily |
 
 ## 🗺️ Project Roadmap
 
